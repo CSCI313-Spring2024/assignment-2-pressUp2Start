@@ -1,0 +1,31 @@
+h1{
+    border: 1px solid black; 
+    
+}
+
+d1{
+    font-size: 20px;
+}
+
+h4{
+    border: 1px solid black;
+    font-size: 35px; 
+}
+
+tr{
+    table-layout: fixed;
+    text-align: center;
+    font-size: 20px;
+}
+
+a{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 25px;
+}
